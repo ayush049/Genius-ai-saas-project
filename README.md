@@ -1,33 +1,19 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-Sure, here's the content formatted for a GitHub README:
-
----
 
 # AI-SaaS Project
 
 ## Features
 
-- **Tailwind Design**: Modern and responsive design using Tailwind CSS.
-- **Tailwind Animations and Effects**: Smooth and visually appealing animations.
 - **Full Responsiveness**: Optimized for all screen sizes.
 - **Clerk Authentication**: Secure user authentication with Email, Google, and Username options.
-- **Client Form Validation**: Robust form validation with react-hook-form.
-- **Server Error Handling**: Real-time error handling using react-toast.
 - **Image Generation Tool**: Generate images using OpenAI's capabilities.
 - **Video Generation Tool**: Create videos with Replicate AI integration.
 - **Conversation Generation Tool**: AI-powered conversation generation using OpenAI.
 - **Music Generation Tool**: Generate music using Replicate AI.
-- **Page Loading State**: Smooth page transitions and loading states.
 - **Stripe Subscription**: Manage monthly subscriptions with Stripe.
 - **Free Tier with API Limiting**: Free tier access with usage limits.
-- **Route Handlers**: POST, DELETE, and GET routes for API endpoints.
-- **Server Data Fetching**: Fetch data directly from the database in server-side components.
-- **Server-Child Component Relations**: Efficiently handle data relations between components.
-- **Reusable Layouts**: Consistent and reusable layout components.
-- **Next 13 App Router Structure**: Organized folder structure for Next.js.
 - **Beautiful Landing Page**: Visually appealing landing page with testimonials.
 
 ## Technology Used
@@ -47,7 +33,9 @@ Sure, here's the content formatted for a GitHub README:
 
 ---
 
-Copy and paste this content into your GitHub README file.
+## Getting Started
+
+---
 
 First, run the development server:
 
